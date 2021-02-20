@@ -1,0 +1,10 @@
+1 rhombus 0 0 4 90
+1 hexagon 0 0 -6 
+6
+1 pentagon 0 0 7 
+2
+3
+4 1
+2
+3
+5

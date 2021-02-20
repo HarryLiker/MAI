@@ -1,0 +1,29 @@
+Quadrate<int> quadre1;
+quadre1.Center = {0, 0};
+quadre1.Side = 4;
+
+Quadrate<double> quadre2;
+quadre2.Center = {0.35, 10.5};
+quadre2.Side = 8;
+
+Rectangle<int> rectangle1;
+rectangle1.Center = {25, 100};
+rectangle1.Length = 25;
+rectangle1.Width = 100;
+
+Rectangle<double> rectangle2;
+rectangle2.Center = {45.85, 36.9};
+rectangle2.Length = 56.7;
+rectangle2.Width = 1003.3;
+
+Trapeze<int> trapeze1;
+trapeze1.Center = {1000, -86};
+trapeze1.DownSide = 100;
+trapeze1.UpperSide = 5;
+trapeze1.Height = 56;
+    
+Trapeze<double> trapeze2;
+trapeze2.Center = {-9.85, -34.8};
+trapeze2.DownSide = 89.5;
+trapeze2.UpperSide = 100.2;
+trapeze2.Height = 2.7;

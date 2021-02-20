@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/work/MAI/DA/da_lab4/main.cpp
+iostream
+-
+search.hpp
+/root/work/MAI/DA/da_lab4/search.hpp
+string
+-
+sstream
+-
+ctime
+-
+
+/root/work/MAI/DA/da_lab4/search.hpp
+iostream
+-
+vector
+-
+cstring
+-
+

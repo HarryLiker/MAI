@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/root/work/MAI/DA/da_lab4/build",
+  "command": "/bin/g++-9    -g   -o CMakeFiles/da_lab4.dir/main.cpp.o -c /root/work/MAI/DA/da_lab4/main.cpp",
+  "file": "/root/work/MAI/DA/da_lab4/main.cpp"
+},
+{
+  "directory": "/root/work/MAI/DA/da_lab4/build",
+  "command": "/bin/g++-9    -g   -o CMakeFiles/da_lab4.dir/search.cpp.o -c /root/work/MAI/DA/da_lab4/search.cpp",
+  "file": "/root/work/MAI/DA/da_lab4/search.cpp"
+}
+]

@@ -1,0 +1,25 @@
+==9872== Memcheck, a memory error detector
+==9872== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==9872== Using Valgrind-3.15.0 and LibVEX; rerun with -h for copyright info
+==9872== Command: ./lab2
+==9872== Parent PID: 9701
+==9872== 
+==9872== error calling PR_SET_PTRACER, vgdb might block
+==9872== 
+==9872== HEAP SUMMARY:
+==9872==     in use at exit: 8,845 bytes in 58 blocks
+==9872==   total heap usage: 67,716 allocs, 67,658 frees, 10,403,920 bytes allocated
+==9872== 
+==9872== 8,845 (96 direct, 8,749 indirect) bytes in 2 blocks are definitely lost in loss record 3 of 3
+==9872==    at 0x483BE63: operator new(unsigned long) (in /usr/lib/x86_64-linux-gnu/valgrind/vgpreload_memcheck-amd64-linux.so)
+==9872==    by 0x10A637: Menu() (in /root/work/MAI/DA/da_lab2/lab2)
+==9872==    by 0x10A515: main (in /root/work/MAI/DA/da_lab2/lab2)
+==9872== 
+==9872== LEAK SUMMARY:
+==9872==    definitely lost: 96 bytes in 2 blocks
+==9872==    indirectly lost: 8,749 bytes in 56 blocks
+==9872==      possibly lost: 0 bytes in 0 blocks
+==9872==    still reachable: 0 bytes in 0 blocks
+==9872==         suppressed: 0 bytes in 0 blocks
+==9872== 
+==9872== ERROR SUMMARY: 1 errors from 1 contexts (suppressed: 0 from 0)

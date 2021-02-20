@@ -1,0 +1,24 @@
++ hello 4534
++ hefrs 6546
++ sdfds 765
++ fgdsf 56645
++ fdgd 6754
++ a 655476
+a
++ hello 6546547
+- ardsfs
++ sfdtgrt 56746
+sfdtgrt
++ dsfsd 4324
++ fdsdsd 5654765
++ hello 453456
++ jet 55435
++ koll 6546
+- jet
++ hello 65456
++ jedai 5454
++ drive 3423
+! Save hello
+! Load hello
++ hello 4324
++ rudi 5435

@@ -1,0 +1,1 @@
+/bin/g++-9  -g  -rdynamic CMakeFiles/da_lab4.dir/main.cpp.o CMakeFiles/da_lab4.dir/search.cpp.o  -o da_lab4 

@@ -1,0 +1,48 @@
+Enter the index of the figure type (1 - Rectangle, 2 - Trapeze, 3 - Rhombus): Enter the position of the figure: Enter the center coordinates: Enter down side, upper side and height: The figure has been added
+
+Etered unknown command. Enter command "help" to print all the commands
+
+Enter the index of the figure type (1 - Rectangle, 2 - Trapeze, 3 - Rhombus): Enter the position of the figure: Enter the center coordinates: Enter lenght and width: The figure has been added
+
+Enter the index of the figure type (1 - Rectangle, 2 - Trapeze, 3 - Rhombus): Enter the position of the figure: Enter the center coordinates: Enter the side: Enter an angle: The figure has been added
+
+Figures in document:
+1. Rectangle: {(21.5, 13), (-21.5, 13), (-21.5, -19), (21.5, -19)}
+2. Rhombus: {(13.6274, 0), (0, 19.6274), (-31.6274, 0), (0, -25.6274)}
+3. Trapeze: {(50, -15), (5, 15), (-5, 15), (-50, -15)}
+
+Enter the figure's position to remove: The figure has been removed
+
+Figures in document:
+1. Rhombus: {(13.6274, 0), (0, 19.6274), (-31.6274, 0), (0, -25.6274)}
+2. Trapeze: {(50, -15), (5, 15), (-5, 15), (-50, -15)}
+
+The last action was canseled
+
+Figures in document:
+1. Rectangle: {(21.5, 13), (-21.5, 13), (-21.5, -19), (21.5, -19)}
+2. Rhombus: {(13.6274, 0), (0, 19.6274), (-31.6274, 0), (0, -25.6274)}
+3. Trapeze: {(50, -15), (5, 15), (-5, 15), (-50, -15)}
+
+The file has been saved
+
+Enter the index of the figure type (1 - Rectangle, 2 - Trapeze, 3 - Rhombus): Enter the position of the figure: Enter the center coordinates: Enter down side, upper side and height: The figure has been added
+
+Figures in document:
+1. Rectangle: {(21.5, 13), (-21.5, 13), (-21.5, -19), (21.5, -19)}
+2. Rhombus: {(13.6274, 0), (0, 19.6274), (-31.6274, 0), (0, -25.6274)}
+3. Trapeze: {(50, -15), (5, 15), (-5, 15), (-50, -15)}
+4. Trapeze: {(-40, -48), (-30, 42), (-150, 42), (-140, -48)}
+
+New document has been created
+
+Figures in document:
+
+Write file name: Document has been uploaded
+
+Figures in document:
+1. Rectangle: {(21.5, 13), (-21.5, 13), (-21.5, -19), (21.5, -19)}
+2. Rhombus: {(13.6274, 0), (0, 19.6274), (-31.6274, 0), (0, -25.6274)}
+3. Trapeze: {(50, -15), (5, 15), (-5, 15), (-50, -15)}
+
+Program has been completed

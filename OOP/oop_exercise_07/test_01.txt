@@ -1,0 +1,17 @@
+add 1 1 0 34 89 1
+add 2 1 -2 34 50 80 2
+add 3 3 -9 40 60 2
+print 
+remove 2
+remove 2
+print
+save new_file
+add 1 3 90 32 43 56
+print
+open new_file
+print
+remove 1
+print
+undo 
+print
+exit

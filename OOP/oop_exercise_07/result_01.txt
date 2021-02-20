@@ -1,0 +1,41 @@
+Enter the index of the figure type (1 - Rectangle, 2 - Trapeze, 3 - Rhombus): Enter the position of the figure: Enter the center coordinates: Enter lenght and width: The figure has been added
+
+Enter the index of the figure type (1 - Rectangle, 2 - Trapeze, 3 - Rhombus): Enter the position of the figure: Enter the center coordinates: Enter down side, upper side and height: The figure has been added
+
+Enter the index of the figure type (1 - Rectangle, 2 - Trapeze, 3 - Rhombus): Enter the position of the figure: Enter the center coordinates: Enter the side: Enter an angle: The figure has been added
+
+Figures in document:
+1. Trapeze: {(23, 33), (38, 35), (-42, 35), (-27, 33)}
+2. Rectangle: {(44.5, 34.5), (-44.5, 34.5), (-44.5, 33.5), (44.5, 33.5)}
+3. Rhombus: {(50.9909, 0), (0, 41.0471), (-68.9909, 0), (0, 38.9529)}
+
+Enter the figure's position to remove: The figure has been removed
+
+Enter the figure's position to remove: The figure has been removed
+
+Figures in document:
+1. Trapeze: {(23, 33), (38, 35), (-42, 35), (-27, 33)}
+
+The file has been saved
+
+Enter the index of the figure type (1 - Rectangle, 2 - Trapeze, 3 - Rhombus): Enter the position of the figure: Enter the center coordinates: Enter lenght and width: The figure has been added
+
+Figures in document:
+1. Trapeze: {(23, 33), (38, 35), (-42, 35), (-27, 33)}
+2. Rectangle: {(111.5, 60), (68.5, 60), (68.5, 4), (111.5, 4)}
+
+Write file name: Document has been uploaded
+
+Figures in document:
+1. Trapeze: {(23, 33), (38, 35), (-42, 35), (-27, 33)}
+
+Enter the figure's position to remove: The figure has been removed
+
+Figures in document:
+
+The last action was canseled
+
+Figures in document:
+1. Trapeze: {(23, 33), (38, 35), (-42, 35), (-27, 33)}
+
+Program has been completed

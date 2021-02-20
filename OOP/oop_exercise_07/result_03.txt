@@ -1,0 +1,50 @@
+Enter the index of the figure type (1 - Rectangle, 2 - Trapeze, 3 - Rhombus): Enter the position of the figure: Enter the center coordinates: Enter the side: Enter an angle: The figure has been added
+
+Figures in document:
+1. Rhombus: {(63.4415, 0), (0, 29.5833), (-63.4415, 0), (0, -29.5833)}
+
+New document has been created
+
+Figures in document:
+
+Enter the index of the figure type (1 - Rectangle, 2 - Trapeze, 3 - Rhombus): Enter the position of the figure: Enter the center coordinates: Enter lenght and width: The figure has been added
+
+Enter the index of the figure type (1 - Rectangle, 2 - Trapeze, 3 - Rhombus): Enter the position of the figure: Enter the center coordinates: Enter the side: Enter an angle: The figure has been added
+
+Enter the index of the figure type (1 - Rectangle, 2 - Trapeze, 3 - Rhombus): Enter the position of the figure: Enter the center coordinates: Enter down side, upper side and height: The figure has been added
+
+Figures in document:
+1. Rectangle: {(261.5, 65), (-81.5, 65), (-81.5, -25), (261.5, -25)}
+2. Trapeze: {(18.5, 7.5), (22, 12.5), (8, 12.5), (11.5, 7.5)}
+3. Rhombus: {(95.3209, 0), (0, 102.856), (64.6791, 0), (0, 77.1442)}
+
+Enter the figure's position to remove: The figure has been removed
+
+Figures in document:
+1. Trapeze: {(18.5, 7.5), (22, 12.5), (8, 12.5), (11.5, 7.5)}
+2. Rhombus: {(95.3209, 0), (0, 102.856), (64.6791, 0), (0, 77.1442)}
+
+The last action was canseled
+
+Figures in document:
+1. Rectangle: {(261.5, 65), (-81.5, 65), (-81.5, -25), (261.5, -25)}
+2. Trapeze: {(18.5, 7.5), (22, 12.5), (8, 12.5), (11.5, 7.5)}
+3. Rhombus: {(95.3209, 0), (0, 102.856), (64.6791, 0), (0, 77.1442)}
+
+The file has been saved
+
+Enter the figure's position to remove: The figure has been removed
+
+Enter the figure's position to remove: The figure has been removed
+
+Figures in document:
+1. Rhombus: {(95.3209, 0), (0, 102.856), (64.6791, 0), (0, 77.1442)}
+
+Write file name: Document has been uploaded
+
+Figures in document:
+1. Rectangle: {(261.5, 65), (-81.5, 65), (-81.5, -25), (261.5, -25)}
+2. Trapeze: {(18.5, 7.5), (22, 12.5), (8, 12.5), (11.5, 7.5)}
+3. Rhombus: {(95.3209, 0), (0, 102.856), (64.6791, 0), (0, 77.1442)}
+
+Program has been completed
